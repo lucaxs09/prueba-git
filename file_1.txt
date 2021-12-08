@@ -1,0 +1,2 @@
+Contenido de file 1
+Linea 2
