@@ -5,6 +5,11 @@
 - [Stack Blitz - Editor Online](https://stackblitz.com/)
 
 
+## Problema 1
+`Se cuenta con una bolsa que tiene 100 números diferentes, es decir, contiene todos los números desde el 1 hasta el 100, de manera que ninguno de ellos se repite.
+Uno de los números es retirado al hazar y se requiere diseñar un algoritmo que permite calcular cuál es el número que falta en la bolsa.`
+
+
 ## Fundamentos de Programación   
 
 **Estructuras de Datos**
@@ -32,3 +37,5 @@
 
 
 **Procedimientos y Funciones**
+
+
